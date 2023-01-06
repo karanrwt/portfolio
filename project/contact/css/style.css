@@ -1,0 +1,38 @@
+* {
+    padding: auto;
+    margin: auto;
+    background-color: whitesmoke;
+}
+p{
+    text-align: center;
+    font-size: 38px;
+    padding-top: 25px;
+}
+.form{
+    text-align: center;
+    padding-top: 70px;
+}
+.box{
+    margin: 1px 1px;
+    width: 50%;
+    padding: 3px 1px;
+}
+.box2{
+    width: 50%;
+    height: 40vh;
+}
+.btn{
+    margin: 40px 0px;
+}
+.btn button{
+    background-color: #1982ff;
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    color: whitesmoke;
+}
+.btn button:hover{
+    background-color:whitesmoke;
+    color: black;
+}
